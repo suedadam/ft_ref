@@ -7,7 +7,7 @@ This project was intended to be an intro to heap memory allocation and recode it
 
 Medium Article about the implementation:
 
-(Link coming soon)
+https://medium.com/@suedadam/malloc-1443693f026c
 
 [PDF](pdf/ft_malloc.en.pdf)
 ---
