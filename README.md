@@ -16,13 +16,15 @@
 |LS|[PDF](pdf/ft_ls.en.pdf)|Systems|[suedadam/ft_ls](https://github.com/suedadam/ft_ls)|:white_check_mark:|
 |42sh|[PDF](pdf/42sh.en.pdf)|Systems|[suedadam/42sh](https://github.com/suedadam/42sh)|:white_check_mark:|
 |Malloc|[PDF](pdf/malloc.en.pdf)|Systems|[suedadam/ft_malloc](https://github.com/suedadam/ft_malloc)|:white_check_mark:|
-|nm_otool|[PDF](pdf/nm_otool.en.pdf)|Systems|Private|:construction:|
+|nm_otool|[PDF](pdf/nm_otool.en.pdf)|Systems|[suedadam/nm-otool](https://github.com/suedadam/nm-otool)|:white_check_mark:|
+|ft_p|[PDF](http://placekitten.com/100/400)|Systems|[suedadam/ft_p](https://github.com/suedadam/ft_p)|:white_check_mark:|
 |ft_printf|[PDF](pdf/ft_printf.en.pdf)|Algorithms|[suedadam/ft_printf](https://github.com/suedadam/ft_printf)|:white_check_mark:|
 |Push_swap|[PDF](pdf/push_swap.en.pdf)|Algorithms|[suedadam/push_swap](https://github.com/suedadam/push_swap)|:white_check_mark:|
 |Lem_In|[PDF](pdf/lem_in.en.pdf)|Algorithms|[suedadam/Lem_In](https://github.com/suedadam/Lem_In)|:white_check_mark:|
 |Corewar|[PDF](pdf/corewar.en.pdf)|Algorithms|[suedadam/corewar](https://github.com/suedadam/corewar)|:white_check_mark:|
 |init|[PDF](pdf/init.en.pdf)|DevOps|[suedadam/ft_init](https://github.com/suedadam/ft_init)|:white_check_mark:|
 |docker-1|[PDF](pdf/docker.en.pdf)|DevOps|[suedadam/docker-1](https://github.com/suedadam/docker-1)|:white_check_mark:|
+|Hypertube|[PDF](http://placekitten.com/100/400)|Web|[suedadam/hypertube](https://github.com/suedadam/hypertube)|:construction:|
 
 # Staff Projects (All Private)
 |Name|Desc
